@@ -1,4 +1,5 @@
 poi-poi
 =======
 
-This is where I store code that I'm working on if I need to share it between more than one device/person.
+This is the personal projects repository.
+Mostly C/C++, sometimes other languages(Java, HTML, etc).
