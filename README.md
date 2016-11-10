@@ -1,4 +1,5 @@
-poi-poi
+Personal Projects
+
 =======
 
 This is the personal projects repository.
